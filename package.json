@@ -1,6 +1,6 @@
 {
   "name": "jquery-ui-bundle",
-  "version": "1.11.4",
+  "version": "1.12.1",
   "homepage": "http://jqueryui.com",
   "description": "A curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library.",
   "main": "jquery-ui.js",
